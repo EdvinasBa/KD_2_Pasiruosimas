@@ -32,7 +32,7 @@ namespace KD_2_Pasiruosimas
                 Console.WriteLine("Eilute redaguota");
 
             //foreach (string zodis in apdorotasTekstas)
-              //  Console.WriteLine(zodis);
+            //  Console.WriteLine(zodis);
         }
 
         // Grąžina string masyvą su teksto eilutėmis iš failo
