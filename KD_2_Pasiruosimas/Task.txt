@@ -1,0 +1,18 @@
+﻿Užduotis. 
+Faile Tekstas.txt užrašytas tekstas. 
+Gretimi žodžiai eilutėje skiriami vienu arba keliais skyrikliais. 
+
+Skyrikliai yra žinomi.
+
+Kiekvienoje eilutėje ilgiausią žodį iš tų, kuriuose yra trys skirtingos balsės, perkelti į eilutės pradžią kartu su
+skyrikliais už jo. 
+
+Jei eilutėje tokių žodžių nėra, ji nekeičiama.
+
+Koreguotą tekstą užrašyti į failą RedTekstas.txt.
+
+Rasti ilgiausią eilutę koreguotame faile. 
+
+Ar ši eilutė buvo koreguota? Pranešimą spausdinkite ekrane.
+
+Pastaba. Programoje turi būti panaudoti metodai 1-4.
